@@ -1,4 +1,4 @@
-package skypro.courseWorkTgBot;
+package skypro.tgBotReminder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
