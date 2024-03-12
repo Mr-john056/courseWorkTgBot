@@ -1,6 +1,6 @@
 -- liquibase formatted sql
 
--- changeset ekulakov
+-- changeset ekulakov:1
 create table tasks(
     id bigserial primary key,
     chat_id bigint not null,
